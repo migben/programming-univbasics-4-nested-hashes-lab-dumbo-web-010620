@@ -66,6 +66,9 @@ def adding_matz
 
 # I'll proceed as told in the problem description
 
+# Not doing this:
+# Changing a hash by simply re-defining it is not the goal of this lab:
+
 	programmer_hash = 
  		{
         :grace_hopper => {
