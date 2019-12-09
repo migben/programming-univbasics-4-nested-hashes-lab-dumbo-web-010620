@@ -64,6 +64,8 @@ def adding_matz
 #    :languages => ["LISP", "C"]
 # }
 
+# I'll proceed as told in the problem description
+
 	programmer_hash = 
  		{
         :grace_hopper => {
